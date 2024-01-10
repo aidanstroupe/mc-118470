@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "snow.mc118470.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "MixinNarratorManager",
+    "MixinSoundSystem",
+    "accessor.AccessorNarratorManager",
+    "accessor.AccessorNarratorWindows"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
