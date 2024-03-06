@@ -5,16 +5,16 @@
   "name": "MC-118470",
   "description": "Ties the narrator volume to the speech/voice volume slider, allowing the narrator's volume to be controlled. Patches MC-118470.",
   "authors": [
-    "RadioactiveSnowball"
+    "Aidan Stroupe"
   ],
   "contact": {
-    "sources": "https://github.com/radioactivesnowball/mc-118470"
+    "sources": "https://github.com/aidanstroupe/mc-118470"
   },
   "license": "MIT",
   "environment": "client",
   "entrypoints": {
     "client": [
-      "snow.mc118470.MC118470"
+      "dev.stroupe.mc118470.MC118470"
     ],
     "main": []
   },
